@@ -1,0 +1,10 @@
+1. Tạo Repos remote trên Github
+2. Tạp Repos local (trên máy tính )
+    2.1 git init:: khởi tạo repos local
+3. Kết nối 2 repos lại 
+    3.1 git remote add origin url: repos remote trên git hub
+
+4. Đẩy file từ local lên remote
+    4.1 Khai báo những file cần đảy 
+
+
