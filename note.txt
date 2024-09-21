@@ -1,3 +1,5 @@
+ĐÓNG VAI TRÒ TẠI DỰ ÁN
+
 1. Tạo Repos remote trên Github
 2. Tạp Repos local (trên máy tính )
     2.1 git init:: khởi tạo repos local
@@ -8,3 +10,7 @@
     4.1 Khai báo những file cần đảy 
 
 
+ĐÓNG VAI TRÒ THAM GIA DỰ ÁN 
+1. Accept lời mời 
+2. Kéo repo của dự án về 
+    git clone "url repo"
